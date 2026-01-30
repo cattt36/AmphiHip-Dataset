@@ -57,8 +57,8 @@ ________________________________________________________________________________
 |    15      |     M     |   18    |   1.73   |    70    | BAS, BF, BRS, FC              |    Swimming skill level: Elite                                     |
 |    16      |     M     |   21    |   1.85   |    76    | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Elite, USQ: 2.5 kg load                   |
 |    17      |     M     |   22    |   1.67   |    69    | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Rookie, USQ: no load                      |
-|    18      |     F     |   22    |   1.60    |    43   | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Elite, USQ: 2.5 kg load                   |
-|    19      |     F     |   19    |   1.62    |    47   | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Medium, USQ: no load                      |
+|    18      |     F     |   22    |   1.60   |    43   | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Elite, USQ: 2.5 kg load                    |
+|    19      |     F     |   19    |   1.62   |    47   | BAS, BF, BRS, FC, UW, USQ     |    Swimming skill level: Medium, USQ: no load                       |
 |    20      |     M     |   20    |   1.87   |    82    | BAS, BF, BRS, FC              |    Swimming skill level: Elite                                     |
 |    21      |     M     |   24    |   1.76   |    74    | BAS, BF, BRS, FC              |    Swimming skill level: Medium                                    |
 |    22      |     M     |   22    |   1.82   |    78    | BAS, BF, BRS, FC              |    Swimming skill level: Elite                                     |
