@@ -26,6 +26,7 @@ The data categories in each Excel file are explained as follows:
 
 
 The dataset descriptions including the gender, age, height, weight, motions, and the personal setting of each participant, are as follows:
+<img width="1555" height="1112" alt="image" src="https://github.com/user-attachments/assets/157a634f-b5d0-4211-a21a-f6a476a7d105" />
 
 ____________________________________________________________________________________________________________________________________________________________
 | Participant |  Gender   |  Age   | Height    | Weight  |            Motions            |                     Personal Settings                              |
