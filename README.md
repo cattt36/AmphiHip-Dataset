@@ -36,3 +36,5 @@ laboratory-grade global kinematics. The signals should be interpreted as sensor-
 
 2. Ethical approval for the AmphiHip dataset acquisition experiments is obtained from the Ethics Committee of Xiangya Hospital, Central South University 
 (Ethics Review Number: 2021111249).
+
+3. The AmphiHip dataset is released under CC BY 4.0 license, permitting free academic use with appropriate attribution. 
